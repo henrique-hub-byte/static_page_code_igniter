@@ -1,5 +1,9 @@
-.img_veneza {
-    width: 100%;
-    height: 90%;
-    margin: 25px 25px 25px 25px;
-}
+ @import url('global/base.css');
+ @import url('global/footer.css');
+
+
+ .img_veneza {
+     width: 100%;
+     height: 90%;
+     margin: 25px 25px 25px 25px;
+ }
